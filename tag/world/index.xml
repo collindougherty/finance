@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pure Signal</title>
-    <link>https://collindougherty.github.io/finance/</link>
-      <atom:link href="https://collindougherty.github.io/finance/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pure Signal</description>
+    <title>World | Pure Signal</title>
+    <link>https://collindougherty.github.io/finance/tag/world/</link>
+      <atom:link href="https://collindougherty.github.io/finance/tag/world/index.xml" rel="self" type="application/rss+xml" />
+    <description>World</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://collindougherty.github.io/finance/media/icon_hu5e864f9f61b6d0c1a51339ea4767618e_6981_512x512_fill_lanczos_center_3.png</url>
-      <title>Pure Signal</title>
-      <link>https://collindougherty.github.io/finance/</link>
+      <title>World</title>
+      <link>https://collindougherty.github.io/finance/tag/world/</link>
     </image>
-    
-    <item>
-      <title>About Pure Signal</title>
-      <link>https://collindougherty.github.io/finance/post/about-pure-signal/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://collindougherty.github.io/finance/post/about-pure-signal/</guid>
-      <description>
-&lt;script src=&#34;https://collindougherty.github.io/finance/post/about-pure-signal/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;Welcome to Pure Signal. When I was in the midst of my college career, I became fascinated by the way stock markets and crypto markets moved. Like many of my other passions, trying to make sense of the seeming randomness enamored me. I share many of my insights here as I refine old methods and forge new ones. Assets don’t move randomly. Under the surface, if you look closely enough, you can distinguish the signal from the noise.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Collin Dougherty is a senior undergraduate at the University of Nebraska-Lincoln studying mathematics and psychology. He is particularly interested in how data can be used in a wide variety of fields, including sports analytics, trading, and surveys. He works in the field of sports analytics with the University of Nebraska. Learn more about Collin &lt;a href=&#34;https://collindougherty.github.io/&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>On U.S. markets and Global Peers</title>
@@ -62,14 +47,6 @@ Even when the top performers reverted to the mean, most of them go on to yield p
 &lt;p&gt;Anyways, I look at all this data and leave with the undeniable impression that we should seek to rotate funds into markets outside of the US in the coming decade or two. It will be there that the best returns are likely to be found.&lt;/p&gt;
 &lt;p&gt;To be sure, the US markets can continue to rip for months, even years more. But the music must eventually stop. To believe otherwise is simply repeating the mistakes of those who came before us.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://collindougherty.github.io/finance/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://collindougherty.github.io/finance/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
