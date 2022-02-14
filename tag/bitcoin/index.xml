@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Pure Signal</title>
-    <link>https://collindougherty.github.io/finance/post/</link>
-      <atom:link href="https://collindougherty.github.io/finance/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Bitcoin | Pure Signal</title>
+    <link>https://collindougherty.github.io/finance/tag/bitcoin/</link>
+      <atom:link href="https://collindougherty.github.io/finance/tag/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bitcoin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://collindougherty.github.io/finance/media/icon_hu5e864f9f61b6d0c1a51339ea4767618e_6981_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://collindougherty.github.io/finance/post/</link>
+      <title>Bitcoin</title>
+      <link>https://collindougherty.github.io/finance/tag/bitcoin/</link>
     </image>
     
     <item>
@@ -43,21 +43,6 @@
 &lt;p&gt;Current Account: $10,000 (+0.00%)&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;*I am not a financial advisor and the above does not constitute financial advice. Do your own research before making a purchase.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About The Football Forecaster</title>
-      <link>https://collindougherty.github.io/finance/post/about-the-football-forecaster/</link>
-      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://collindougherty.github.io/finance/post/about-the-football-forecaster/</guid>
-      <description>
-&lt;script src=&#34;https://collindougherty.github.io/finance/post/about-the-football-forecaster/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;Welcome to The Football Forecaster! This page will be updated as I progress in the development of college football power rankings with important terminology, explanations, and more.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Collin Dougherty is a senior undergraduate at the University of Nebraska-Lincoln studying mathematics and psychology. He is particularly interested in how data can be used in a wide variety of fields, including sports analytics, bitcoin, and surveys. He worked in the field of sports analytics with the University of Nebraska. Learn more about Collin &lt;a href=&#34;https://collindougherty.github.io/&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
